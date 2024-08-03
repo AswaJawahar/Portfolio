@@ -1,3 +1,3 @@
 # Portfolio
 
-  In this portfolio I have showcased my data analysis skills by creating projects!!
+In my portfolio, I’ve showcased projects where I applied my data analysis skills.
